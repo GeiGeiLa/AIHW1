@@ -1,5 +1,6 @@
 [1011/124132.935:ERROR:settings.cc(430)] Settings version is not 5
 [1011/125132.946:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
 [1011/131129.619:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
-main
 
+
+another
